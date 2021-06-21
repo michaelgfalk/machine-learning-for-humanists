@@ -12,4 +12,4 @@ Use the links below to open the Notebooks in Google Colab:
 
 * [Session 1: Basics](https://colab.research.google.com/github/michaelgfalk/machine-learning-for-humanists/blob/master/session-1-basics.ipynb)
 * [Session 2: Topic Modelling](https://colab.research.google.com/github/michaelgfalk/machine-learning-for-humanists/blob/master/session-2-topic-modelling.ipynb)
-* [Session 3: Text Generation](https://colab.research.google.com/github/michaelgfalk/machine-learning-for-humanists/blob/master/session-3-text-gernation.ipynb)
+* [Session 3: Text Generation](https://colab.research.google.com/github/michaelgfalk/machine-learning-for-humanists/blob/master/session-3-text-generation.ipynb)
